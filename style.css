@@ -302,6 +302,10 @@ section {
     width: 80%;
     margin: 10% 0 0 10%;
   }
+  .img-cv img {
+    width: 350%;
+    margin: 10% 0 0 10%;
+  }
 
   .hero-text p {
     font-size: 70%;
@@ -339,9 +343,9 @@ section {
   }
 
   .img-cv img {
-    margin: -10% 0 0 -40%;
-    width: 90%; /* Ajusta el tamaño de la imagen en dispositivos pequeños */
-    max-width: none; /* Quita la restricción de tamaño máximo */
+  margin: -1% 0 0 -50%;
+  width: 450px;/* Ajusta el tamaño de la imagen en dispositivos pequeños */
+  max-width: 500px;
 }
 
   .hero {
@@ -352,7 +356,7 @@ section {
   .download {
     bottom: 10px;
     left:  90%;
-    transform: translateX(0.9%); /* Centra el botón de descarga */
+    transform: translateX(2%); /* Centra el botón de descarga */
     
   }
 
