@@ -1,0 +1,11 @@
+h1{
+        font-family: "Berkshire Swash", serif;
+        font-weight: 400;
+        font-style: normal;
+}
+.container{
+    display: flex;
+    height: 300px;
+    width: 1000px;  
+    background-color: blueviolet; 
+}
