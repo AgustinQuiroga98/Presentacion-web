@@ -404,7 +404,22 @@ section {
   }
 
   .hero-img img {
-    margin: 0;
+    width: 300px;
+    margin: -10% 0 0 10%;
+    transition: none;
+  }
+  /* .hero-img img {
+    width: 300px;
+    margin: 10% 0 0 10%;
+    height: auto;
+    /* opacity: 1; 
+    transition: all 1s linear;
+    /* esto hace que la transicion sea linear
+    margin-right: 30px;
+  } */
+  .hero-img img:hover {
+    width: 300px;
+    opacity: 1;
   }
 
   .img-cv img {
