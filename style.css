@@ -420,7 +420,7 @@ section {
   }
   .download {
     bottom: 10px;
-    left:  90%;
+    left:  85%;
     transform: translateX(0.9%); /* Centra el botón de descarga */
     
   }
